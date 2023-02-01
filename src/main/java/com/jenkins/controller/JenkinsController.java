@@ -10,7 +10,7 @@ public class JenkinsController {
 	
 	@RequestMapping(value="/message",produces = MediaType.APPLICATION_JSON_VALUE)
 	public String getMessage() {
-		return "springboot jenkins working be happy";
+		return "springboot jenkins working be happy shahimsha";
 	}
 
 }
